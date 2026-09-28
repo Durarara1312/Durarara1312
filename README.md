@@ -1,14 +1,3 @@
-# Ilya ⚡
-
-**Developer · Fintech · Automation**
-
-> Find the limit. Then find a way around it.
-
-I build mobile apps, bots and automation tools.  
-Working with fintech, payments and acquiring.
-
----
-
 ## Stack
 
 <table>
