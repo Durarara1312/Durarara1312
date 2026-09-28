@@ -1,3 +1,7 @@
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,kotlin,cs,react,sqlite,git,github,vscode,androidstudio" />
+</p>
+
 ## Stack
 
 <table>
