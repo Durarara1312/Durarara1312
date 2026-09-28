@@ -81,16 +81,6 @@ Various Discord and Telegram bots for automation, utilities and community manage
 
 ---
 
-## Fintech
-
-Currently working with:
-
-`Payments` · `Acquiring` · `PSP` · `Crypto PSP` · `Transaction Monitoring`
-
-Experience with transaction processing, conversion monitoring, callbacks, 3DS, pending transactions, incident handling and integrations with payment providers.
-
----
-
 ## Elsewhere
 
 [![Website](https://img.shields.io/badge/fakecrime.bio-111111?style=flat-square&logo=linktree&logoColor=white)](https://fakecrime.bio/adelamity)
